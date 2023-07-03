@@ -3,11 +3,12 @@
 Descripción
 Desafío del Challenge Java!
 
-Conversor de divisas utilizando el lenguaje Java. Las características solicitadas:
+Conversor de divisas utilizando el lenguaje Java:
 
 Funciones:
 
 El convertidor de moneda:
+
       - Convierte de peso Colombiano a Dólar
       - Convierte de peso Colombiano a Euros
       - Convierte de peso Colombiano a Libras Esterlinas
